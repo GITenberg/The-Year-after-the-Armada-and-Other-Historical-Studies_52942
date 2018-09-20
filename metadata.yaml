@@ -1,0 +1,32 @@
+_repo: The-Year-after-the-Armada-and-Other-Historical-Studies_52942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, Martin A. S. (Martin Andrew Sharp)
+    alias: Hume, Martin Andrew Sharp
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '9628'
+    url: http://www.gutenberg.org/2009/agents/9628
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Sharp_%28journalist%29
+description: ''
+gutenberg_issued: '2016-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Armada, 1588'
+- !lcsh 'Europe -- History -- 17th century'
+- !lcsh 'Europe -- History -- 1517-1648'
+- !lcc 'D'
+- GITenberg
+tableOfContents: The year after the Armada -- Julian Romero, swashbuckler -- The coming
+  of Philip the Prudent -- The evolution of the Spanish Armada -- A fight against
+  finery -- A palace in the Strand -- The exorcism of Charles the Bewitched -- A sprig
+  of the House of Austria -- The journal of Richard Bere.
+title: The Year after the Armada, and Other Historical Studies
+url: http://www.gutenberg.org/ebooks/52942
